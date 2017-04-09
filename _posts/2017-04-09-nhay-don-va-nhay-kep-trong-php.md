@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Nháy đơn và nháy kép trong PHP
 ---
 
