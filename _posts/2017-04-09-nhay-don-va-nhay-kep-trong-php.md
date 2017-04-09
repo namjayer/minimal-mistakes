@@ -4,7 +4,7 @@ title: Nháy đơn và nháy kép trong PHP
 excerpt_separator: <!--more-->
 thumbnail: https://namjayer.net/wp-content/uploads/2017/04/phptut.png
 ---
-
+<img src="{{ post.thumbnail }}" align="center" />
 <h2>Nháy đơn và nháy kép ?</h2>
 
 Thỉnh thoảng, trong khi code PHP chắc hẳn chúng ta đã từng nhìn thấy dấu nháy đơn và nháy kép xuất hiện trong các đọan code. <!--more-->
