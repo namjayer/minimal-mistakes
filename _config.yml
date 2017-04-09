@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Wordpress Tutorial - Hosting Gia Re - SEO Guild - Laravel Tutorial"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Nam Jayer"
 description              : "An amazing website."
 url                      : "https://namjayer.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -80,22 +80,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Nam Jayer"
+  avatar           : "https://namjayer.net/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "*This is my blog. I write about "shit" I care about."
+  location         : "Viet Nam"
+  email            : "tihonusus@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
+  flickr           :  "namjayer"
+  facebook         :  "namm.ntx"
   foursquare       :
-  github           :
+  github           :  "namjayer"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :  "namm.ntx"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          :  "namjayer"
   vine             :
   weibo            :
   xing             :
