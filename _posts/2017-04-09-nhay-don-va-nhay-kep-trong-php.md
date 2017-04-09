@@ -2,6 +2,7 @@
 layout: single
 title: Nháy đơn và nháy kép trong PHP
 excerpt_separator: <!--more-->
+thumbnail: https://namjayer.net/wp-content/uploads/2017/04/phptut.png
 ---
 
 <h2>Nháy đơn và nháy kép ?</h2>
