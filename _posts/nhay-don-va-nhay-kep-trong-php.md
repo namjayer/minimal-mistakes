@@ -1,3 +1,8 @@
+---
+layout: post
+title: Nháy đơn và nháy kép trong PHP
+---
+
 Nháy đơn và nháy kép ?
 
 Thỉnh thoảng, trong khi code PHP chắc hẳn chúng ta đã từng nhìn thấy dấu nháy đơn và nháy kép xuất hiện trong các đọan code. Và ngay cả bản thân chúng ta cũng đã từng sử dụng qua lại giữa dấu nháy đơn hoặc nháy kép như một thói quen mà không hề hiểu rõ được khi nào nên dùng nháy đơn hoặc nháy kép. Bài viết này có thể sẽ giúp bạn phân biệt được khi nào nên dùng nháy đơn hoặc nháy kép
