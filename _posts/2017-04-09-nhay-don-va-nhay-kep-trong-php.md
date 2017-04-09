@@ -17,8 +17,18 @@ Có nghĩa là, những gì được viết trong dấu nháy đơn sẽ đượ
 
 Ví dụ:
 
-{% highlight php %}
+{% highlight php linenos %}
   // khai báo biến + giá trị
   $bien = "gia tri";
   echo 'In du lieu $bien';
+{% endhighlight %}
+
+{% highlight ruby linenos %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
 {% endhighlight %}
