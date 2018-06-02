@@ -54,7 +54,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Theme
-theme:  minimal-mistakes-jekyll
+#theme:  minimal-mistakes-jekyll
+remote_theme: thiagorossener/jekflix-template
 # Social Sharing
 twitter:
   username               : "namjayer"
